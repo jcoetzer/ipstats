@@ -1,0 +1,2 @@
+30	0	*	*	1-5	/home/johan/bin/ipstats.sh jcoetzer@gmail.com
+45	6	*	*	1-5	/home/johan/bin/ipstats.sh lourens.mes@midrand-estates.co.za,darren.mes@midrand-estates.co.za,carel@voltano.com
